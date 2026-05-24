@@ -25,6 +25,7 @@ The database was built using connected tables, forms, reports, and queries to ma
 ## My Contribution
 
 - Led a 6-person team during development
+- Set up the relationships between all the tables
 - Created the Order and Payment tables
 - Developed payment-related queries and reports
 - Worked on delivery location analysis
